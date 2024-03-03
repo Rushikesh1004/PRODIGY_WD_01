@@ -1,1 +1,2 @@
-# PRODIGY_WD_0
+# PRODIGY_WD_01
+Responsive landing page using HTML CSS & JavaScript.
